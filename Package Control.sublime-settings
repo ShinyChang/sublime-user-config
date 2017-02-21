@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"EditorConfig",
+		"FuzzyFileNav",
+		"GhostText",
+		"GitStatusBar",
+		"HTML-CSS-JS Prettify",
+		"Insert Nums",
+		"Markdown HTML Preview",
+		"Modific",
+		"Package Control",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint"
+	]
+}

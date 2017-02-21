@@ -1,0 +1,31 @@
+[
+    {
+        "no_outside_adj": null,
+        "keys": ["super+shift+a"],
+        "command": "bh_key",
+        "args":
+        {
+            "lines" : true,
+            "plugin":
+            {
+                "type": ["__all__"],
+                "command": "bh_modules.bracketselect"
+            }
+        }
+    },
+    { 
+        "keys": ["super+o"], 
+        "command": "fuzzy_start_from_file" 
+    },
+    { 
+        "keys": ["super+k", "super+r"], 
+        "command": "reveal_in_side_bar"
+    },
+    {   "keys": ["super+k", "super+f"], 
+        "command": "open_dir", 
+        "args": {
+            "dir": "$file_path", 
+            "file": "$file_name"
+        } 
+    }
+]
