@@ -21,11 +21,16 @@
         "keys": ["super+k", "super+r"], 
         "command": "reveal_in_side_bar"
     },
-    {   "keys": ["super+k", "super+f"], 
+    {   
+        "keys": ["super+k", "super+f"], 
         "command": "open_dir", 
         "args": {
             "dir": "$file_path", 
             "file": "$file_name"
         } 
+    },
+    {   
+        "keys": ["super+k", "super+c"], 
+        "command": "copy_path"
     }
 ]
