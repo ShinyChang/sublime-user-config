@@ -17,6 +17,7 @@ My personal sublime text user config
 1. Origami
 1. Package Control
 1. Sass
+1. sublime-github
 1. SublimeLinter
 1. SublimeLinter-contrib-eslint
 
