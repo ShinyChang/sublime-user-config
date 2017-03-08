@@ -27,6 +27,19 @@ My personal sublime text user config
 |----------|-------------|
 |`super+shift+a`|select text between brackets|
 |`super+o`|open file with FuzzyFileNav|
-|`super+k`, `super+r`| reveal in side bar |
-|`super+k`, `super+f`| open in Finder |
-|`super+k`, `super+c`| copy file path|
+|`super+k`, `super+r`|reveal in side bar|
+|`super+k`, `super+f`|open in Finder|
+|`super+k`, `super+c`|copy file path|
+
+## Shortcuts you must to know
+
+| shortcut | description |
+|----------|-------------|
+|`super+d`|choose `Don't Save` in close file dialog|
+|`esc`|choose `Cancel` in close file dialog|
+|`enter`|choose `Save` in close file dialog|
+|`ctrl+shift+up`|vertical multiple selection|
+|`ctrl+shift+down`|vertical multiple selection|
+|`f5`|sort lines|
+|`f6`|toggle spell check|
+|`super+k`, `super+v`|paste from clipboard history|

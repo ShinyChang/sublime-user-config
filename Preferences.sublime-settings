@@ -37,7 +37,9 @@
 		"youtube",
 		"google",
 		"favourite",
-		"aws"
+		"aws",
+		"online",
+		"timeslot"
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Sunburst (SL).tmTheme",
 	"enable_tab_scrolling": false,
@@ -68,15 +70,16 @@
 	],
 	"folder_exclude_patterns":
 	[
-		".svn",
 		".git",
-		".hg",
-		"CVS",
-		"public",
-		"build",
-		"node_modules",
-		"coverage",
 		".happypack",
+		".hg",
+		".svn",
+		"build",
+		"coverage",
+		"CVS",
+		"CW2",
+		"node_modules",
+		"public",
 		"static"
 	],
 	"font_size": 13,
