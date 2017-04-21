@@ -43,3 +43,4 @@ My personal sublime text user config
 |`f5`|sort lines|
 |`f6`|toggle spell check|
 |`super+k`, `super+v`|paste from clipboard history|
+|`super+alt+s`|save all (very useful after you global replaced)|

@@ -39,7 +39,8 @@
 		"favourite",
 		"aws",
 		"online",
-		"timeslot"
+		"timeslot",
+		"chai"
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Sunburst (SL).tmTheme",
 	"enable_tab_scrolling": false,
