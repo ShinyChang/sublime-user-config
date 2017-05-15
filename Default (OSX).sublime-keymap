@@ -32,5 +32,9 @@
     {   
         "keys": ["super+k", "super+c"], 
         "command": "copy_path"
+    },
+    { 
+        "keys": ["super+ctrl+a"], 
+        "command": "alignment" 
     }
 ]
