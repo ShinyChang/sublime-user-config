@@ -2,6 +2,7 @@
 My personal sublime text user config
 
 ## Installed packages
+1. AceJump
 1. Alignment
 1. Babel
 1. BracketHighlighter
