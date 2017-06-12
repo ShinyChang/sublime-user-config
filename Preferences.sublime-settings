@@ -73,6 +73,7 @@
 	[
 		".git",
 		".happypack",
+		".hswp",
 		".hg",
 		".svn",
 		"build",
