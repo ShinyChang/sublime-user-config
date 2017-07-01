@@ -1,0 +1,1 @@
+{ "shell_cmd": "$folder/node_modules/.bin/eslint --fix $file" }
