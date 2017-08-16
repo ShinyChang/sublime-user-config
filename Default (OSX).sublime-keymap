@@ -36,5 +36,9 @@
     { 
         "keys": ["super+ctrl+a"], 
         "command": "alignment" 
+    },
+    {   
+        "keys": ["ctrl+alt+shift+s"], 
+        "command": "save_all" 
     }
 ]
