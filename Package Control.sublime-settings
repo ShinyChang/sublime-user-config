@@ -10,12 +10,15 @@
 		"Babel",
 		"BracketHighlighter",
 		"Color Highlighter",
+		"Dockerfile Syntax Highlighting",
 		"EditorConfig",
 		"FuzzyFileNav",
+		"Gherkin (Cucumber) Formatter",
 		"GhostText",
 		"GitStatusBar",
 		"HTML-CSS-JS Prettify",
 		"Insert Nums",
+		"JsPrettier",
 		"Markdown HTML Preview",
 		"Modific",
 		"Origami",
@@ -23,6 +26,6 @@
 		"Sass",
 		"sublime-github",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint"
+		"SublimeLinter-eslint"
 	]
 }

@@ -40,5 +40,9 @@
     {   
         "keys": ["ctrl+alt+shift+s"], 
         "command": "save_all" 
+    },
+    {   
+        "keys": ["super+alt+f"], 
+        "command": "js_prettier" 
     }
 ]

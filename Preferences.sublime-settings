@@ -43,7 +43,8 @@
 		"chai",
 		"Refactor",
 		"Frontend",
-		"firebase"
+		"firebase",
+		"javascript"
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Sunburst (SL).tmTheme",
 	"enable_tab_scrolling": false,
@@ -84,10 +85,12 @@
 		"CVS",
 		"CW2",
 		"node_modules",
+		"locales_old",
+		"__snapshots__",
 		"public",
 		"static"
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
