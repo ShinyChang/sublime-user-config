@@ -11,11 +11,13 @@
 		"BracketHighlighter",
 		"Color Highlighter",
 		"Dockerfile Syntax Highlighting",
+		"DotENV",
 		"EditorConfig",
 		"FuzzyFileNav",
 		"Gherkin (Cucumber) Formatter",
 		"GhostText",
 		"GitStatusBar",
+		"GraphQL",
 		"HTML-CSS-JS Prettify",
 		"Insert Nums",
 		"JsPrettier",
@@ -26,6 +28,7 @@
 		"Sass",
 		"sublime-github",
 		"SublimeLinter",
-		"SublimeLinter-eslint"
+		"SublimeLinter-eslint",
+		"Syntax Highlighting for PostCSS"
 	]
 }

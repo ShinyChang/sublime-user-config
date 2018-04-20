@@ -44,7 +44,14 @@
 		"Refactor",
 		"Frontend",
 		"firebase",
-		"javascript"
+		"javascript",
+		"fallback",
+		"offline",
+		"schemas",
+		"middlewares",
+		"Alphabag",
+		"Singulator",
+		"singulator"
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Sunburst (SL).tmTheme",
 	"enable_tab_scrolling": false,
@@ -80,6 +87,7 @@
 		".hswp",
 		".hg",
 		".svn",
+		".next",
 		"build",
 		"coverage",
 		"CVS",
@@ -88,7 +96,8 @@
 		"locales_old",
 		"__snapshots__",
 		"public",
-		"static"
+		"static",
+		"vendor"
 	],
 	"font_size": 14,
 	"highlight_line": true,
@@ -103,5 +112,6 @@
 	],
 	"spell_check": true,
 	"tab_size": 2,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
