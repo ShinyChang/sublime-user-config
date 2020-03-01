@@ -1,0 +1,34 @@
+{
+    "defaults": {
+        "custom_template_tags": false,
+        "flow_types": false,
+        "jsx": false,
+    },
+
+    "configurations": {
+        "ECMA Script": {
+            "file_extensions": [ "js", "jsx" ],
+            "flow_types": true,
+            "jsx": true,
+            "eslint_directives": true,
+            "string_object_keys": true,
+            "custom_templates": {
+                "styled_components": true,
+                "tags": {
+                    "gql": "scope:source.graphql"
+                }
+            }
+        }
+    },
+
+    "embed_configuration": {
+        "name": "JS Custom (Embedded)",
+        "scope": "source.js",
+        "hidden": true,
+        "file_extensions": [],
+        "custom_template_tags": false,
+    },
+
+    "auto_build": true,
+    "jsx_close_tag": true
+}

@@ -1,7 +1,7 @@
 {
 	"extensions":
 	[
-		".babelrc",
-		"www"
+		"js",
+		".sequelizerc"
 	]
 }

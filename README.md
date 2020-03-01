@@ -13,6 +13,7 @@ My personal sublime text user config
 1. GitStatusBar
 1. HTML-CSS-JS Prettify
 1. Insert Nums
+1. InsertDate
 1. Markdown HTML Preview
 1. Modific
 1. Origami
@@ -21,6 +22,7 @@ My personal sublime text user config
 1. sublime-github
 1. SublimeLinter
 1. SublimeLinter-contrib-eslint
+1. Terminus
 
 ## Customize keyboard shortcuts
 
@@ -41,6 +43,8 @@ My personal sublime text user config
 |`super+k`, `super+arrow`|create split window|Origami|
 |`super+k`, `super+shift+arrow`|remove split window|Origami|
 |`super+alt+n`|insert number|Insert Nums|
+|`super+k`, `super+t`| Insert current ISOString | InsertDate |
+|`super+k`, `super+o`| Open terminal | Terminus |
 
 ## Shortcuts you must to know in Sublime
 

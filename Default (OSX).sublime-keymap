@@ -44,5 +44,14 @@
     {   
         "keys": ["super+alt+f"], 
         "command": "js_prettier" 
+    },
+    { 
+        "keys": ["super+k", "super+t"],
+        "command": "insert_date",
+        "args": {"format": "%Y-%m-%dT%H:%M:%SZ"} 
+    },
+    {
+        "keys": ["super+k", "super+o"],
+        "command": "terminus_open"
     }
 ]
