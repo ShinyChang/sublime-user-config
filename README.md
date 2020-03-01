@@ -1,7 +1,9 @@
 # sublime-user-config
+
 My personal sublime text user config
 
 ## Installed packages
+
 1. AceJump
 1. Alignment
 1. Babel
@@ -33,6 +35,8 @@ My personal sublime text user config
 |`super+k`, `super+r`|reveal in side bar|-|
 |`super+k`, `super+f`|open in Finder|-|
 |`super+k`, `super+c`|copy current file path|-|
+|`super+k`, `super+o`| Open terminal | Terminus |
+|`super+k`, `super+t`| Insert current ISOString | InsertDate |
 
 ## Shortcuts of packages
 
@@ -43,8 +47,7 @@ My personal sublime text user config
 |`super+k`, `super+arrow`|create split window|Origami|
 |`super+k`, `super+shift+arrow`|remove split window|Origami|
 |`super+alt+n`|insert number|Insert Nums|
-|`super+k`, `super+t`| Insert current ISOString | InsertDate |
-|`super+k`, `super+o`| Open terminal | Terminus |
+
 
 ## Shortcuts you must to know in Sublime
 
