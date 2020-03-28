@@ -56,6 +56,9 @@ My personal sublime text user config
 |`super+d`|choose `Don't Save` in close file dialog|
 |`esc`|choose `Cancel` in close file dialog|
 |`enter`|choose `Save` in close file dialog|
+|`ctrl+shift+m`| Expand selection to brackets|
+|`super+shift+space`| Expand selection to scope|
+|`super+shift+j`| Expand selection to indentation|
 |`ctrl+shift+up`|vertical multiple selection|
 |`ctrl+shift+down`|vertical multiple selection|
 |`f5`|sort lines|
