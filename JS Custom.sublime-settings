@@ -15,7 +15,9 @@
             "custom_templates": {
                 "styled_components": true,
                 "tags": {
-                    "gql": "scope:source.graphql"
+                    "graphql": "scope:source.graphql",
+                    "gql": "scope:source.graphql",
+                    "createGlobalStyle": "scope:source.css"
                 }
             }
         }

@@ -1,3 +1,4 @@
 {
-	"theme": "nightlion-v1"
+	"theme": "nightlion-v1",
+  "scrollback_history_size": 1000
 }

@@ -60,7 +60,8 @@
 		"timestamp",
 		"api",
 		"firstname",
-		"lastname"
+		"lastname",
+		"twilio"
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Sunburst (SL).tmTheme",
 	"enable_tab_scrolling": false,
@@ -123,6 +124,6 @@
 	],
 	"spell_check": true,
 	"tab_size": 2,
-	"theme": "Default.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
