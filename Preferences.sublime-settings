@@ -61,13 +61,27 @@
 		"api",
 		"firstname",
 		"lastname",
-		"twilio"
+		"twilio",
+		"param",
+		"Playhead",
+		"playhead",
+		"scrollable",
+		"selectable",
+		"animatable",
+		"lottie",
+		"precomposition",
+		"Keyframe",
+		"keyframe",
+		"Ungroup",
 	],
-	"color_scheme": "Packages/User/SublimeLinter/Sunburst (SL).tmTheme",
-	"enable_tab_scrolling": false,
+	"color_scheme": "Packages/User/Color Highlighter/themes/Sunburst.tmTheme",
+	"enable_tab_scrolling": true,
+	"hide_tab_scrolling_buttons": true,
+	"hide_new_tab_button": true,
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
+		"*.map",
 		"*.pyc",
 		"*.pyo",
 		"*.exe",
@@ -100,23 +114,23 @@
 		".hg",
 		".svn",
 		".next",
-		"build",
+		"dist",
 		"docs",
 		"coverage",
+		"build",
 		"CVS",
 		"CW2",
 		"node_modules",
 		"locales_old",
 		"__snapshots__",
-		"public",
 		"vendor"
 	],
-	"font_size": 14,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
 	"rulers":
 	[
@@ -125,5 +139,11 @@
 	"spell_check": true,
 	"tab_size": 2,
 	"theme": "Adaptive.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"ignored_words":
+	[
+		""
+	],
+	"index_files": true,
+	"update_check": true,
 }

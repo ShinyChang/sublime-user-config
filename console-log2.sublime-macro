@@ -1,0 +1,11 @@
+[
+	{ "command": "move_to", "args": { "to": "eol" } },
+	{ "command": "insert", "args": { "characters": "\n" } },
+	{ "command": "move", "args": { "by": "lines" } },
+	{
+		"command": "insert_snippet",
+		"args": {
+			"name": "Packages/User/console-log.sublime-snippet"
+		}
+	}
+]

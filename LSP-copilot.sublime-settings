@@ -1,0 +1,23 @@
+{
+  "command": [
+    "${node_bin}",
+    "${server_path}",
+    "--stdio"
+  ],
+  "schemes": [
+    "file",
+    "buffer",
+    "res"
+  ],
+  "settings": {
+    "auto_ask_completions": true,
+    "debug": false,
+    "hook_to_auto_complete_command": false,
+    "local_checks": false,
+    "telemetry": false,
+    "proxy": "",
+    "completion_style": "popup"
+  },
+  // ST4 configuration
+  "selector": "source | text | embedding"
+}

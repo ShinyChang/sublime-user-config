@@ -1,0 +1,54 @@
+{
+    "viewer" : "Sublime",
+
+    // Display diagnostic (debug) messages on Sublime Text start up, about the
+    // installation state. Possible values are:
+    // 0   - No messages
+    // 1   - Some messages
+    // 127 - All messages possible (very verbose)
+    "check_on_startup": 0,
+
+    // Generate a new file each time a diagram is created, or just create the
+    // diagram using the current file name as base. On this case, the file will
+    // be created on the same directory as the current file.
+    "new_file": false,
+
+    // valid values:
+    // 'png'              generate images using PNG format
+    // 'svg'              generate images using SVG format
+    // 'txt'              generate images with ASCII art
+    // 'utxt'             generate images with ASCII art using Unicode characters
+    // 'latex'            generate images using LaTeX/Tikz format
+    // 'latex:nopreamble' generate images using LaTeX/Tikz format without preamble
+    //
+    // These formats are also supported by plantUml, but they need some
+    // prerequisite to be installed... PlantUml return_code = 1 on invocation:
+    // 'pdf' generate images using PDF format
+    // 'vdx' generate images using VDX format
+    // 'eps' generate images using EPS format
+    "output_format": "png",
+
+    // It will first try to use the server, because is much more faster than
+    // calling directly the jar. If you would like to run a local server, you
+    // can install it from: https://github.com/plantuml/plantuml-server
+    //
+    // You also use a third part server, sending your diagram code to
+    // third-parties by default, use this web server:
+    // "http://www.plantuml.com/plantuml/"
+    //
+    // You may already have a PlantUML server in your team, find the server
+    // address, like: http://192.168.1.100:8080/plantuml.
+    //
+    // If don't have one, you can set up on you own (follow the instructions on:
+    // https://github.com/plantuml/plantuml-server).
+    //
+    // Find the server address, like: http://localhost:8080/plantuml, or
+    // http://192.168.1.100:8080/plantuml which is ready for sharing to your team.
+    "plantuml_server": "http://localhost:8080/",
+
+    // The full path to the plantuml.jar file
+    "jar_file": "./plantuml.jar",
+
+    // Can be "UTF-8" - to support non-latin text in diagram
+    "charset": null
+}

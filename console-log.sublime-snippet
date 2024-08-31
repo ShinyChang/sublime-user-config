@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+console.error('$TM_FILENAME:$TM_LINE_NUMBER', { ${1:$SELECTION} })
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cl</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.jsx,source.js</scope>
+</snippet>

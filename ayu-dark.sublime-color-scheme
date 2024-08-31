@@ -1,0 +1,17 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+  "variables":
+  {
+  },
+  "globals":
+  {
+    "background": "#000000",
+    "gutter": "#000000",
+    "find_highlight_foreground": "#000000",
+    "shadow": "#000000",
+  },
+  "rules":
+  [
+    
+  ]
+}
